@@ -2,9 +2,9 @@
 body { font-family:'Segoe UI',sans-serif;
        background:#0d1117; color:#f0f6fc; }
 header { padding:3rem 2rem; border-bottom:1px solid #30363d; }
-h1 { font-size:2.2rem; color:#58a6ff; }
+h1 { font-size:2.2rem; color:#DE6674; }
 .role { color:#3ddc84; margin-top:0.4rem; }
-section { padding:2rem; max-width:780px; margin:auto; }
+section { padding:2rem; max-width:500px; margin:auto; }
 h2 { color:#58a6ff; margin-bottom:1rem; }
 .skills-list { display:flex; flex-wrap:wrap; gap:8px; }
 .tag { background:#21262d; border:1px solid #30363d;
